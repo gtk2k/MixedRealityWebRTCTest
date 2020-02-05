@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Microsoft.MixedReality.WebRTC.Unity.Examples/VideoChatDemo/VideoChatDemo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
